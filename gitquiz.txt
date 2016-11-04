@@ -1,0 +1,9 @@
+Opened up terminal and cloned my repository.
+Went into my repository by doing cd claudia2369-cmis-wd
+Typed in gedit to open up a new file.
+Saved it and named it as gitquiz.txt
+Closed gedit and went back to terminal
+Added the git by doing add gitquiz.txt
+Commit the git by doing git commit -m "these are the steps to making a new file"
+Pushed the git by doing git push 
+Went to github to make sure that the new file and changes are there.
