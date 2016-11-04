@@ -1,8 +1,8 @@
 Opened up terminal and cloned my repository.
 Went into my repository by doing cd claudia2369-cmis-wd
 Typed in gedit to open up a new file.
-Wrote all the steps that I took during this quiz
-Saved it and named it as gitquiz.txt
+Wrote all the steps that it took in order to create file.txt
+Save it and name it as file.txt
 Closed gedit and went back to terminal
 Added the git by doing add gitquiz.txt
 Commit the git by doing git commit -m "these are the steps to making a new file"
