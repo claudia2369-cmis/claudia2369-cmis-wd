@@ -17,4 +17,6 @@ cd - same as terminal
 prepend a command with ! to execute it on local
 put <filename> - upload a file
 get <filename> - download a file
-
+check html by using validator
+head body paragraph header
+python -m SimpleHTTPServer - run it 
