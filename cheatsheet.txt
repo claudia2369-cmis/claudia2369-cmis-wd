@@ -20,3 +20,7 @@ get <filename> - download a file
 check html by using validator
 head body paragraph header
 python -m SimpleHTTPServer - run it 
+Username: claudida2369
+Password: saFlGt/QKS6yw
+!ls
+
