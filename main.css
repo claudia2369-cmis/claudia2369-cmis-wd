@@ -1,15 +1,19 @@
 html {
+	background:linear-gradient(#e6ffff,#ccffff);
+	border:solid 30px #ffffff
+	box-shadow: 20px 10px 20px;
 }
 h1 {
-	color:#d9b3ff; 
+	opacity: 0.8;
+	color:#ffffff; 
 	font-size:50px;
 	font-family:Copperplate Gothic Light;
 	background-color:#e6ffff;
 	border:solid 10px #ccffff;
-	border-color: #99ccff; 
+	outline: 6px solid #ffffff;
+	border-color: #ffffff; 
 	border-style:dotted solid dashed;
-	background:linear-gradient(blue,aqua);
-	
+	background:#ffccee;
 }
 h2 {
 	color:#80Ebfb;
@@ -17,8 +21,9 @@ h2 {
 	font-family:Courier New;
 	background-color:#e6ffff;
 	border:solid 10px #ccffff;
-	border-color: #99ccff; 
+	border-color: #ffffff; 
 	border-style:dotted solid double dashed;
+	
 }
 p {
 	color:#66b3ff;
@@ -27,8 +32,11 @@ p {
 	font-style: oblique;
 	background-color:#e6ffff; 
 	border:solid 10px #ccffff;
-	border-color: #99ccff; 
+	border-color: #ffffff; 
 	border-style:dotted solid double dashed;
+	background:linear-gradient(blue,aqua);
 }
 
-
+html {
+	background-image:url("http://wall-papers.info/images/palm-trees-background/palm-trees-background-8.jpg");
+}
