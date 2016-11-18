@@ -1,11 +1,58 @@
 html {
+/*
+Create a new file called "main.css"
+Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+Edit the main.css file
+add a declaration for each element in the body of your index.html file.
+add properties to style the background color of each element.
+add properties to style the border of each element.
+add properties to style the font and text of each element.
+Use at least 20 different properties. Include a list of these 20 at the TOP of your main.css file as a css comment.
+Use at least 4 different units to set sizes of various aspects of your webpage.
+Go learn something from 2 classmates; add a comment to your main.css file that describes what you learned.
+View your index.html in the development server.
+Validate your index.html file.
+Validate your main.css file.
+Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+Upload to the production server with sftp.
+View your index.html in the production server.
+
+background-linear-gradient
+border style
+box shadow
+opacity
+text align
+color
+text shadow
+font size
+font family
+background olor
+padding
+background image
+word spacing
+letter spacing
+outline
+text-decoration
+text-indent
+margin
+content
+height
+
+*/
+/*
+I learned the linear gradients for the borders and backgrounds. I also learned how to add images to your background.
+*/
+	
 	background:linear-gradient(#e6ffff,#ccffff);
 	border:solid 30px #ffffff
-	box-shadow: 20px 10px 20px;
+	box-shadow: 20px 10px 20px #ffffff;
 }
 h1 {
 	opacity: 0.8;
-	color:#ffffff; 
+	text-align: center;
+	color:#ababab; 
+	text-shadow: 10px 10px #ffffff;
 	font-size:50px;
 	font-family:Copperplate Gothic Light;
 	background-color:#e6ffff;
@@ -13,17 +60,24 @@ h1 {
 	outline: 6px solid #ffffff;
 	border-color: #ffffff; 
 	border-style:dotted solid dashed;
-	background:#ffccee;
-}
+	background:linear-gradient(#ffffff, #cceeff);
+	word-spacing:1px;
+	letter-spacing:1px;
+	text-decoration: #ffffff;
+	text-indent:1px;
+	margin:20px;
+}	
 h2 {
-	color:#80Ebfb;
+	color: #bfbfbf;
 	font-size:37px;
+	text-align: center;
 	font-family:Courier New;
-	background-color:#e6ffff;
+	background:linear-gradient(#cceeff, #ffffff);
 	border:solid 10px #ccffff;
 	border-color: #ffffff; 
 	border-style:dotted solid double dashed;
-	
+	padding:1px;
+	height: 45px;
 }
 p {
 	color:#66b3ff;
@@ -33,10 +87,13 @@ p {
 	background-color:#e6ffff; 
 	border:solid 10px #ccffff;
 	border-color: #ffffff; 
+	text-align: center;
 	border-style:dotted solid double dashed;
-	background:linear-gradient(blue,aqua);
+	background:linear-gradient(#cceeff, #ffffff);
+	
 }
 
 html {
-	background-image:url("http://wall-papers.info/images/palm-trees-background/palm-trees-background-8.jpg");
+	background-image:url("https://s-media-cache-ak0.pinimg.com/originals/74/3a/26/743a26da2b89f72198339ff19e0fea20.png");
 }
+
