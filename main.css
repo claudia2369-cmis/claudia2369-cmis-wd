@@ -78,7 +78,9 @@ h2 {
 	border-style:dotted solid double dashed;
 	padding:1px;
 	height: 45px;
-}
+	margin-left:300px;
+	margin-right:300px;
+}	
 p {
 	color:#66b3ff;
 	font-size:28px;
@@ -89,7 +91,10 @@ p {
 	border-color: #ffffff; 
 	text-align: center;
 	border-style:dotted solid double dashed;
-	background:linear-gradient(#cceeff, #ffffff);
+	background:linear-gradient(#cceeff, #ffffff);	
+	margin-left:300px;
+	margin-right:300px;
+	
 	
 }
 
