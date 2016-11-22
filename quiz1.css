@@ -1,0 +1,44 @@
+html {	
+	background:#ffffff;
+	border:solid 30px #ffffff
+	border-left:
+	
+}
+h1 {
+	font-family:Impact;
+	background-color:#228B22;
+	color:#FFFF00;
+	font-style: italic;	
+	border-bottom:dashed 5px;
+	
+	
+}	
+h2 {
+	color: #FFFF00;
+	font-size:30px;
+	font-family:Arial;
+	background:#800080;
+
+}	
+
+h3 {
+	background:#FFFF00;
+	color:#800080;
+	border-top:dashed 2px;
+}
+p1 {
+	background: #ffffff;
+	color: #0000CD;
+	
+}
+p {
+	background:#FF0000;
+	font-family:Impact;
+	font-size:15px;
+	font-style: italic;
+	color:#0000CD;
+	border-bottom:dashed 10px;
+	border-color:#FFFF00;
+	
+	
+
