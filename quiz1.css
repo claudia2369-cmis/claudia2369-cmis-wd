@@ -1,7 +1,9 @@
 html {	
 	background:#ffffff;
 	border:solid 30px #ffffff
-	border-left:
+	border-left-width:thin;
+	border-left: groove 10px orange;
+	border-right: groove 10px orange;
 	
 }
 h1 {
@@ -15,9 +17,12 @@ h1 {
 }	
 h2 {
 	color: #FFFF00;
-	font-size:30px;
+	font-size:23px;
 	font-family:Arial;
 	background:#800080;
+
+
+	
 
 }	
 
@@ -26,19 +31,26 @@ h3 {
 	color:#800080;
 	border-top:dashed 2px;
 }
-p1 {
-	background: #ffffff;
-	color: #0000CD;
+p:nth-child(2){
+	background-color:#FF0000;
+	font-style: italic;
+	font-family:Impact;
+	color:#0000ff;
+	border-bottom:dashed 10px;
+	border-color:#FFFF00;
+	margin:-22px;
+	padding:18px;
+	margin-left:1px;
+	margin-right:1px;
+	font-size:15px;
 	
 }
 p {
-	background:#FF0000;
-	font-family:Impact;
+	background:#ffffff;
+	font-family:Arial;
 	font-size:15px;
-	font-style: italic;
-	color:#0000CD;
-	border-bottom:dashed 10px;
-	border-color:#FFFF00;
+	color:#0000ff;
+	
 	
 	
 
