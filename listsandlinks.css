@@ -3,38 +3,52 @@ html {
 	background:linear-gradient(#e6ffff,#ccffff);
 	border:solid 30px #ffffff
 	box-shadow: 20px 10px 20px #ffffff;
-}
-h1 {
-	opacity: 0.8;
-	text-align: center;
-	color:#ababab; 
-	text-shadow: 10px 10px #ffffff;
-	font-size:50px;
-	font-family:Copperplate Gothic Light;
-	background-color:#e6ffff;
-	border:solid 10px #ccffff;
-	
-h2 {
-	color: #bfbfbf;
-	font-size:37px;
-	text-align: center;
-	font-family:Courier New;
-	background:linear-gradient(#cceeff, #ffffff);
-	border:solid 10px #ccffff;
-	
-}	
-p {
-	color:#66b3ff;
-	font-size:28px;
-	font-family:Courier New;
-	font-style: oblique;
-	background-color:#e6ffff; 
-	border:solid 10px #ccffff;
-	border-color: #ffffff; 
 
+}
+H1{
+
+	background: purple
+	font-size:100px;
+	color:white;
+	padding:20px;
+	top:40px;
+	background:linear-gradient(#e6e6ff,#cce6ff);
+	border:white 10px;
+}
+Header{
+	font-size:30px;
+	background:white;
+	
+}
+h2{
+	position:relative;
+	background:linear-gradient(#e6e6ff,#cce6ff);
+
+}
+p{
+
+	background:linear-gradient(#e6e6ff,#cce6ff);
+
+}
+main ol{
+	font-size:20px;
+	background:linear-gradient(#e6e6ff,#cce6ff);
+
+
+}
+main{
+	color:white;
+	background:linear-gradient(#e6e6ff,#cce6ff);
+	
+}
+
+}
+nav{
+	background:linear-gradient(#e6e6ff,#cce6ff);
 }
 
 html {
 	background-image:url("https://s-media-cache-ak0.pinimg.com/originals/74/3a/26/743a26da2b89f72198339ff19e0fea20.png");
 }
+
 
