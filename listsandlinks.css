@@ -1,13 +1,13 @@
 html {
 
 	background:linear-gradient(#e6ffff,#ccffff);
-	border:solid 30px #ffffff
+	border:solid 30px #ffffff;
 	box-shadow: 20px 10px 20px #ffffff;
 
 }
 H1{
 
-	background: purple
+	background: purple;
 	font-size:100px;
 	color:white;
 	padding:20px;
@@ -36,11 +36,10 @@ main ol{
 
 
 }
-main{
+main p{
 	color:white;
 	background:linear-gradient(#e6e6ff,#cce6ff);
 	
-}
 
 }
 nav{
