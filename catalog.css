@@ -1,36 +1,75 @@
-html {
+ html {
 
 	background:linear-gradient(#e6ffff,#ccffff);
 	border:solid 30px #ffffff;
-	box-shadow: 20px 10px 20px #ffffff;
 	border:40px blue;
-	padding:20px #6A9BB0;
-
+	padding:20px;
+	text-align:center;
+	margin-bottom:40px;
+	background-image:url("http://rlv.zcache.com/blue_dog_paw_prints_fabric-rdc0b82d946c245ac88a4c7f5061589e2_zl6q7_324.jpg?rlvnet=1");
 }
 h1{
-	font-size:50px;
-	color:black;
-	font-family:Copperplate;
+	font-size:70px;
+	font: Copperplate;
+	color:white;
 	
+	text-align:center;
+	margin-bottom:3px;
+	margin-left:300px;
+	margin-right:350px;
+	background: #cceeff;
 
 
 }
 main p{
-	color:white;
-	background:linear-gradient(#e6e6ff,#cce6ff);
+	color:black;
 	
-}
-p{
 	
 
 }
 nav{
-	background:linear-gradient(#e6e6ff,#cce6ff);
+	color:white;
+	padding-top:20px;
+	padding-right:25px;
 }
+html,main {
+	font-family:arial;
 
-html {
-	background-image:url("http://www.sawyoo.com/postpic/2014/09/puppy-paw-print_163557.jpg");
+
+}
+article{
+
+	border-width:30px;
+	border-color:#cce6ff;
+	margin:30px;	
+	background:white;	
+	margin-left:250px;
+	margin-right:250px;
+	padding:1px;
+	border-radius:30px;
+	font-size:20px;
+	
+	
+}
+ul{
+	margin-top:30px;
+	transform:translate(100px,0px);
+
+}
+p{
+	color:black;
+	margin-top:30px;
+	
+
+}
+img{
+	margin-top:0px;
+	padding-top:0px;
 }
 	
+
+ 	
+
+
 
 
